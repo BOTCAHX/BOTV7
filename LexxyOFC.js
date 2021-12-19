@@ -512,8 +512,8 @@ orderMessage: {
 itemCount : 9999999,
 status: 1,
 surface : 1,
-message: `©𝑩𝒚 𝑳𝒆𝒙𝒙𝒚𝑶𝑭𝑪`, 
-orderTitle: `©𝑩𝒚 𝑳𝒆𝒙𝒙𝒚𝑶𝑭𝑪`,
+message: `©𝑩𝒚 `, 
+orderTitle: `©𝑩𝒚 `,
 thumbnail: img2,
 sellerJid: '0@s.whatsapp.net' 
 }
@@ -990,11 +990,11 @@ dns = fs.readFileSync('./donasi.jpg')
 txtnya =`╭─◪ *DONASI BOT*
 │  ───────────
 ├─ ❏ *PULSA*
-├─ ❏ 085789004732
+├─ ❏ 081395861695
 ├─ ❏ *DANA*
-├─ ❏ 082279915237
+├─ ❏ 082221792667
 ├─ ❏ *OVO*
-├─ ❏ 085789004732
+├─ ❏ 
 └────────────────`
 LexxyOFC.sendMessage(from, dns, image, {quoted: flexx, caption: txtnya })
 break
@@ -1297,13 +1297,13 @@ var imgs = await LexxyOFC.prepareMessage('0@c.us', img2, image, { thumbnail: img
                         "productId": "4457725420906655",
                         "title": `ALL MENU`,
                         "description": menunyai,
-                        "footerText": `メLexxy Official̵`,
+                        "footerText": `WET`,
                         "currencyCode": "IDR",
                         "priceAmount1000": "100000000",
                         "productImageCount": 1,
                         "firstImageId": 1,
                         "salePriceAmount1000": "35000000",
-                        "retailerId": `YouTube : Lexxy Official×`,
+                        "retailerId": `YouTube : .×`,
                         "url": "OWNER : https://wa.me/6285789004732\nYT : https://bit.ly/3BpBe1Z\nGROUP : https://bit.ly/3Ene2TO"
                     },
                     "businessOwnerJid": "6285789004732@s.whatsapp.net",
